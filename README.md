@@ -3,7 +3,7 @@ BeagleBone Black Proto Cape
 
 This repository contains the Eagle design files for the LGX Proto Cape for the BeagleBone Black.  
 
-The LGX Proto Cape will be available soon at http://www.logicsupply.com/
+Check out the LGX Proto Cape at http://www.logicsupply.com/products/cbb_proto
 
 ----
 
